@@ -1,4 +1,4 @@
-# Mindful Journal - Design Documentation
+# Mindful Journal - Design Documentation (VIDEO = 
 
 ## Overview
 
@@ -158,26 +158,20 @@ Mindful Journal is a comprehensive AI-powered journaling application designed to
 
 ## Future Enhancements
 
-### Short-term (3-6 months)
+### Short-term 
 - **Mobile App**: Native iOS and Android applications
 - **Voice Journaling**: Speech-to-text entry capabilities
 - **Rich Media**: Photo and audio attachment support
 - **Collaboration**: Sharing insights with therapists or trusted contacts
 - **Export Formats**: PDF, DOCX, and other format exports
 
-### Medium-term (6-12 months)
+### Medium-term 
 - **Advanced Analytics**: Machine learning pattern recognition
 - **Integration APIs**: Connect with mental health apps and devices
 - **Mood Prediction**: Proactive wellness suggestions
 - **Community Features**: Anonymous sharing and support groups
 - **Therapist Portal**: Professional dashboard for mental health providers
 
-### Long-term (12+ months)
-- **Multimodal AI**: Analysis of photos, voice, and biometric data
-- **Predictive Insights**: Early warning systems for mental health
-- **Research Platform**: Anonymized data for mental health research
-- **White-label Solution**: Platform for other mental health organizations
-- **Advanced Personalization**: AI that truly understands individual needs
 
 ## Technology Stack Summary
 
@@ -210,21 +204,6 @@ Mindful Journal is a comprehensive AI-powered journaling application designed to
 - Drizzle Kit for database management
 - Git for version control
 
-## Deployment Strategy
-
-### Development Environment
-- Local development with hot reload
-- Database seeding and testing utilities
-- Environment variable management
-- Automated testing pipeline
-
-### Production Environment
-- Containerized deployment
-- Database migration automation
-- Environment-specific configurations
-- Monitoring and logging systems
-- Backup and disaster recovery
-
 ## Contributing Guidelines
 
 ### Code Standards
@@ -246,3 +225,5 @@ Mindful Journal is a comprehensive AI-powered journaling application designed to
 - Penetration testing schedule
 
 This design documentation provides a comprehensive overview of the Mindful Journal application architecture, features, and future roadmap. The application successfully combines modern web technologies with thoughtful AI integration to create a powerful tool for mental wellness and self-reflection.
+
+YOUTUBE VIDEO: 
