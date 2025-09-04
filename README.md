@@ -1,4 +1,6 @@
-# Mindful Journal - Design Documentation (VIDEO = 
+# Mindful Journal - Design Documentation
+
+ (VIDEO = https://youtu.be/ynmSDgFVj5M?si=HjRxcP3ADqRnP3Xx )
 
 ## Overview
 
